@@ -1,5 +1,4 @@
 *.swift linguist-language=Swift
-
 *.md linguist-documentation
 *.yml linguist-documentation
 *.json linguist-generated
@@ -7,7 +6,6 @@
 *.plist linguist-generated
 *.xcodeproj linguist-generated
 *.xcworkspace linguist-generated
-
 *.js linguist-vendored
 *.jsx linguist-vendored
 *.ts linguist-vendored
