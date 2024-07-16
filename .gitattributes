@@ -1,0 +1,25 @@
+# Set Swift as the primary language
+*.swift linguist-language=Swift
+
+# Treat documentation files as documentation
+*.md linguist-documentation
+*.yml linguist-documentation
+
+# Treat generated files as generated
+*.json linguist-generated
+*.sh linguist-generated
+*.plist linguist-generated
+*.xcodeproj linguist-generated
+*.xcworkspace linguist-generated
+
+# De-emphasize other languages
+*.cpp linguist-vendored
+*.h linguist-vendored
+*.py linguist-vendored
+*.rs linguist-vendored
+*.cs linguist-vendored
+*.dart linguist-vendored
+*.js linguist-vendored
+*.jsx linguist-vendored
+*.ts linguist-vendored
+*.tsx linguist-vendored
