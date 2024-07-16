@@ -1,0 +1,17 @@
+[
+    {
+        "id": "0",
+        "gender": "default",
+        "name": "default",
+        "material": "default",
+        "mainColor": "default",
+        "mainColorRGB" : {
+            "r" : 0,
+            "g" : 0,
+            "b" : 0
+        },
+        "type" : "default",
+        "elegance" : "default",
+        "weather" : "default"
+    },
+]

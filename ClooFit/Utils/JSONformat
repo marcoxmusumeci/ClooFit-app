@@ -1,0 +1,39 @@
+{
+    "id": "0",
+    "gender": "default",
+    "name": "default",
+    "material": "default",
+    "mainColor": "default",
+    "mainColorRGB" : {
+        "r" : 0,
+        "g" : 0,
+        "b" : 0
+    },
+    "type" : "default",
+    "elegance" : "default,
+    "weather" : "default"
+}
+
+id: usare la sigla del proprio nome seguita da un numero incrementale
+    es: PS01, PS02, PS03, ecc
+
+Paolo Sortino (PS)
+Alice Matranga (AM)
+Marco Musumeci (MM)
+Giorgio Taormina (GT)
+Giuseppe Guagliardo (GG)
+Claudio Sottile (CS)
+Flavio Stuppia (FS)
+Gabriele Faraone (GF)
+Salvatore Oteri (SO)
+
+gender: "man", "woman", "unisex"
+name: "t-shirt", "shirt", "pants", "jeans", "dress", "skirt", "hoodie", "sweatshirt"
+material: "denim", "cotton", "wool", "silk", "polyester", "acrylic", "leather", "velvet"
+mainColor: nome di un colore da visualizzare, in formato stringa
+mainColorRGB: dizionario formattato con 3 chiavi (r, g, b) i cui valori devono essere valori 
+    interi tra 0 e 255
+type: "top", "bottom", "topbottom"
+elegance: "formal", "informal"
+weather: "hot", "cold"
+    se un capo è "hot", allora è adatto al clima caldo. Viceversa con cold

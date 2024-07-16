@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C47D1AFF469FFDB59461F40AE2B95D6B2BFB3BC2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "AE773A2644F2F23FCDC9A35BAC226419400183B1" : 0,
+    "8174506C6DBD4A22BEF222B2EAD978843A0F2144" : 0,
+    "C47D1AFF469FFDB59461F40AE2B95D6B2BFB3BC2" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "285EBB5B-151E-4B45-B2FC-23DD154C87FC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "AE773A2644F2F23FCDC9A35BAC226419400183B1" : "ClooFit\/DerivedData\/ClooFit\/SourcePackages\/checkouts\/sdk\/",
+    "8174506C6DBD4A22BEF222B2EAD978843A0F2144" : "ClooFit\/DerivedData\/ClooFit\/SourcePackages\/checkouts\/flatbuffers\/",
+    "C47D1AFF469FFDB59461F40AE2B95D6B2BFB3BC2" : "ClooFit\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ClooFit",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ClooFit.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/stup\/Library\/Developer\/Xcode\/DerivedData\/ClooFit-bgwnovgtiyzpumfbhifmyxorqxzf\/SourcePackages\/repositories\/flatbuffers-470f079a",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8174506C6DBD4A22BEF222B2EAD978843A0F2144"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/stup\/Library\/Developer\/Xcode\/DerivedData\/ClooFit-bgwnovgtiyzpumfbhifmyxorqxzf\/SourcePackages\/repositories\/sdk-731b0a18",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AE773A2644F2F23FCDC9A35BAC226419400183B1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/TurboClaudio\/ClooFit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C47D1AFF469FFDB59461F40AE2B95D6B2BFB3BC2"
+    }
+  ]
+}

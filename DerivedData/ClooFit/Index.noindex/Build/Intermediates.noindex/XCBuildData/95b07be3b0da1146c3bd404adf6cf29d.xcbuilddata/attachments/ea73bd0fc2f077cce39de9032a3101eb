@@ -1,0 +1,21 @@
+{
+  "" : {
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Index.noindex/Build/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/OpenMeteoSdk-master.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Index.noindex/Build/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/OpenMeteoSdk-master.dia",
+    "emit-module-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Index.noindex/Build/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/OpenMeteoSdk-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Index.noindex/Build/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/OpenMeteoSdk-master-emit-module.dia",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Index.noindex/Build/Intermediates.noindex/OpenMeteoSdk.build/Debug-iphonesimulator/OpenMeteoSdk.build/Objects-normal/arm64/OpenMeteoSdk-master.swiftdeps"
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/sdk/swift/Sources/OpenMeteoSdk/OpenMeteoSdk.swift" : {
+
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/sdk/swift/Sources/OpenMeteoSdk/Unit.swift" : {
+
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/sdk/swift/Sources/OpenMeteoSdk/VariablesWithTime.swift" : {
+
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/sdk/swift/Sources/OpenMeteoSdk/weather_api_generated.swift" : {
+
+  }
+}

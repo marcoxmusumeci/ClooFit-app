@@ -1,0 +1,298 @@
+{
+  "" : {
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ClooFit-master.dia",
+    "emit-module-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ClooFit-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ClooFit-master-emit-module.dia",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ClooFit-master.swiftdeps"
+  },
+  "/Users/stup/Documents/Project/ClooFit/armadio.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/armadio.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/armadio.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/armadio.dia",
+    "index-unit-output-path" : "/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/armadio.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/armadio.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/armadio.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/armadio.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/armadio~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/ClooFit/ClooFitApp.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ClooFitApp.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ClooFitApp.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ClooFitApp.dia",
+    "index-unit-output-path" : "/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ClooFitApp.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ClooFitApp.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ClooFitApp.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ClooFitApp.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ClooFitApp~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/ClooFit/DataHandling/CurrentPosition.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/CurrentPosition.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/CurrentPosition.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/CurrentPosition.dia",
+    "index-unit-output-path" : "/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/CurrentPosition.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/CurrentPosition.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/CurrentPosition.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/CurrentPosition.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/CurrentPosition~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/ClooFit/Models/articolo.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/articolo.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/articolo.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/articolo.dia",
+    "index-unit-output-path" : "/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/articolo.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/articolo.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/articolo.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/articolo.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/articolo~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/ClooFit/Models/Outfit.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/Outfit.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/Outfit.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/Outfit.dia",
+    "index-unit-output-path" : "/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/Outfit.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/Outfit.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/Outfit.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/Outfit.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/Outfit~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/ClooFit/Models/stagione.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/stagione.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/stagione.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/stagione.dia",
+    "index-unit-output-path" : "/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/stagione.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/stagione.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/stagione.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/stagione.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/stagione~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/ClooFit/Models/Utente.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/Utente.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/Utente.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/Utente.dia",
+    "index-unit-output-path" : "/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/Utente.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/Utente.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/Utente.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/Utente.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/Utente~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/ClooFit/Utils/generateOutfit.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/generateOutfit.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/generateOutfit.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/generateOutfit.dia",
+    "index-unit-output-path" : "/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/generateOutfit.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/generateOutfit.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/generateOutfit.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/generateOutfit.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/generateOutfit~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/ClooFit/Utils/ModelData.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ModelData.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ModelData.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ModelData.dia",
+    "index-unit-output-path" : "/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ModelData.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ModelData.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ModelData.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ModelData.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ModelData~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/ClooFit/Views/ChooseAnOutfit.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ChooseAnOutfit.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ChooseAnOutfit.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ChooseAnOutfit.dia",
+    "index-unit-output-path" : "/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ChooseAnOutfit.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ChooseAnOutfit.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ChooseAnOutfit.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ChooseAnOutfit.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ChooseAnOutfit~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/ClooFit/Views/ClosetView/ItemListView.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ItemListView.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ItemListView.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ItemListView.dia",
+    "index-unit-output-path" : "/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ItemListView.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ItemListView.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ItemListView.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ItemListView.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ItemListView~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/ClooFit/Views/ClosetView/ItemView.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ItemView.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ItemView.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ItemView.dia",
+    "index-unit-output-path" : "/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ItemView.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ItemView.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ItemView.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ItemView.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ItemView~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/ClooFit/Views/ClosetView/ItemViewDetail.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ItemViewDetail.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ItemViewDetail.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ItemViewDetail.dia",
+    "index-unit-output-path" : "/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ItemViewDetail.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ItemViewDetail.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ItemViewDetail.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ItemViewDetail.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ItemViewDetail~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/ClooFit/Views/ContentView.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/ClooFit/Views/HomePage.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/HomePage.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/HomePage.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/HomePage.dia",
+    "index-unit-output-path" : "/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/HomePage.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/HomePage.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/HomePage.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/HomePage.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/HomePage~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/ClooFit/Views/MeteoView.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/MeteoView.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/MeteoView.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/MeteoView.dia",
+    "index-unit-output-path" : "/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/MeteoView.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/MeteoView.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/MeteoView.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/MeteoView.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/MeteoView~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/ClooFit/Views/NewOutfitRow.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/NewOutfitRow.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/NewOutfitRow.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/NewOutfitRow.dia",
+    "index-unit-output-path" : "/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/NewOutfitRow.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/NewOutfitRow.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/NewOutfitRow.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/NewOutfitRow.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/NewOutfitRow~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/ClooFit/Views/Palette.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/Palette.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/Palette.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/Palette.dia",
+    "index-unit-output-path" : "/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/Palette.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/Palette.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/Palette.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/Palette.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/Palette~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/ClooFit/Views/presentazione/AgePage.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/AgePage.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/AgePage.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/AgePage.dia",
+    "index-unit-output-path" : "/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/AgePage.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/AgePage.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/AgePage.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/AgePage.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/AgePage~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/ClooFit/Views/presentazione/Anteprime.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/Anteprime.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/Anteprime.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/Anteprime.dia",
+    "index-unit-output-path" : "/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/Anteprime.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/Anteprime.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/Anteprime.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/Anteprime.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/Anteprime~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/ClooFit/Views/presentazione/BodyShapePage2.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/BodyShapePage2.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/BodyShapePage2.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/BodyShapePage2.dia",
+    "index-unit-output-path" : "/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/BodyShapePage2.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/BodyShapePage2.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/BodyShapePage2.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/BodyShapePage2.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/BodyShapePage2~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/ClooFit/Views/presentazione/ColorSelectionPage.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ColorSelectionPage.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ColorSelectionPage.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ColorSelectionPage.dia",
+    "index-unit-output-path" : "/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ColorSelectionPage.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ColorSelectionPage.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ColorSelectionPage.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ColorSelectionPage.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/ColorSelectionPage~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/ClooFit/Views/presentazione/GenderPage.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/GenderPage.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/GenderPage.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/GenderPage.dia",
+    "index-unit-output-path" : "/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/GenderPage.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/GenderPage.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/GenderPage.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/GenderPage.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/GenderPage~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/ClooFit/Views/presentazione/WelcomePage.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/WelcomePage.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/WelcomePage.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/WelcomePage.dia",
+    "index-unit-output-path" : "/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/WelcomePage.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/WelcomePage.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/WelcomePage.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/WelcomePage.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/WelcomePage~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/ClooFit/Views/presentazione/writeAgeToFile.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/writeAgeToFile.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/writeAgeToFile.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/writeAgeToFile.dia",
+    "index-unit-output-path" : "/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/writeAgeToFile.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/writeAgeToFile.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/writeAgeToFile.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/writeAgeToFile.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/writeAgeToFile~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/ClooFit/Views/presentazione/writeGenderToFile.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/writeGenderToFile.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/writeGenderToFile.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/writeGenderToFile.dia",
+    "index-unit-output-path" : "/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/writeGenderToFile.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/writeGenderToFile.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/writeGenderToFile.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/writeGenderToFile.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/writeGenderToFile~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/ClooFit/Views/SuggestionRow.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/SuggestionRow.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/SuggestionRow.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/SuggestionRow.dia",
+    "index-unit-output-path" : "/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/SuggestionRow.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/SuggestionRow.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/SuggestionRow.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/SuggestionRow.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/SuggestionRow~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/jsonFunction.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/jsonFunction.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/jsonFunction.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/jsonFunction.dia",
+    "index-unit-output-path" : "/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/jsonFunction.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/jsonFunction.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/jsonFunction.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/jsonFunction.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/ClooFit.build/Debug-iphonesimulator/ClooFit.build/Objects-normal/arm64/jsonFunction~partial.swiftmodule"
+  }
+}

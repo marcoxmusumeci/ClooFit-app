@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Index.noindex/Build/Intermediates.noindex/ClooFit.build/Debug-iphoneos/ClooFitUITests.build/Objects-normal/arm64/ClooFitUITests-master.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Index.noindex/Build/Intermediates.noindex/ClooFit.build/Debug-iphoneos/ClooFitUITests.build/Objects-normal/arm64/ClooFitUITests-master.dia",
+    "emit-module-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Index.noindex/Build/Intermediates.noindex/ClooFit.build/Debug-iphoneos/ClooFitUITests.build/Objects-normal/arm64/ClooFitUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Index.noindex/Build/Intermediates.noindex/ClooFit.build/Debug-iphoneos/ClooFitUITests.build/Objects-normal/arm64/ClooFitUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Index.noindex/Build/Intermediates.noindex/ClooFit.build/Debug-iphoneos/ClooFitUITests.build/Objects-normal/arm64/ClooFitUITests-master.swiftdeps"
+  },
+  "/Users/stup/Documents/Project/ClooFit/ClooFitUITests/ClooFitUITests.swift" : {
+
+  },
+  "/Users/stup/Documents/Project/ClooFit/ClooFitUITests/ClooFitUITestsLaunchTests.swift" : {
+
+  }
+}

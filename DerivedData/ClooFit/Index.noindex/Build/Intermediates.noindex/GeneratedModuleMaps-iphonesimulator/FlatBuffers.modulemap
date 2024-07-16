@@ -1,0 +1,4 @@
+module FlatBuffers {
+header "FlatBuffers-Swift.h"
+export *
+}

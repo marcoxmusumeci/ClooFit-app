@@ -1,0 +1,11 @@
+Target dependency graph (5 targets)
+Target 'ClooFit' in project 'ClooFit'
+➜ Explicit dependency on target 'OpenMeteoSdk' in project 'OpenMeteoSdk'
+Target 'OpenMeteoSdk' in project 'OpenMeteoSdk'
+➜ Explicit dependency on target 'OpenMeteoSdk' in project 'OpenMeteoSdk'
+➜ Explicit dependency on target 'FlatBuffers' in project 'FlatBuffers'
+Target 'OpenMeteoSdk' in project 'OpenMeteoSdk'
+➜ Explicit dependency on target 'FlatBuffers' in project 'FlatBuffers'
+Target 'FlatBuffers' in project 'FlatBuffers'
+➜ Explicit dependency on target 'FlatBuffers' in project 'FlatBuffers'
+Target 'FlatBuffers' in project 'FlatBuffers' (no dependencies)

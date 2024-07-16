@@ -1,0 +1,69 @@
+{
+  "" : {
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Index.noindex/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphoneos/FlatBuffers.build/Objects-normal/arm64/FlatBuffers-master.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Index.noindex/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphoneos/FlatBuffers.build/Objects-normal/arm64/FlatBuffers-master.dia",
+    "emit-module-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Index.noindex/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphoneos/FlatBuffers.build/Objects-normal/arm64/FlatBuffers-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Index.noindex/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphoneos/FlatBuffers.build/Objects-normal/arm64/FlatBuffers-master-emit-module.dia",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Index.noindex/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphoneos/FlatBuffers.build/Objects-normal/arm64/FlatBuffers-master.swiftdeps"
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/ByteBuffer.swift" : {
+
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/Constants.swift" : {
+
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/Enum.swift" : {
+
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/FlatBufferBuilder.swift" : {
+
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/FlatBufferObject.swift" : {
+
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/FlatbuffersErrors.swift" : {
+
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/FlatBuffersUtils.swift" : {
+
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/Int+extension.swift" : {
+
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/Message.swift" : {
+
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/Mutable.swift" : {
+
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/NativeObject.swift" : {
+
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/Offset.swift" : {
+
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/Root.swift" : {
+
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/String+extension.swift" : {
+
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/Struct.swift" : {
+
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/Table.swift" : {
+
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/TableVerifier.swift" : {
+
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/VeriferOptions.swift" : {
+
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/Verifiable.swift" : {
+
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/Verifier.swift" : {
+
+  }
+}

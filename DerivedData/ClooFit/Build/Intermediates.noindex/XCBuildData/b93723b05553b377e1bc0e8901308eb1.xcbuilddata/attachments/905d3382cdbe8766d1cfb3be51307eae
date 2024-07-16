@@ -1,0 +1,208 @@
+{
+  "" : {
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatBuffers-master.dia",
+    "emit-module-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatBuffers-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatBuffers-master-emit-module.dia",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatBuffers-master.swiftdeps"
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/ByteBuffer.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/ByteBuffer.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/ByteBuffer.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/ByteBuffer.dia",
+    "index-unit-output-path" : "/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/ByteBuffer.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/ByteBuffer.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/ByteBuffer.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/ByteBuffer.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/ByteBuffer~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/Constants.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Constants.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Constants.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Constants.dia",
+    "index-unit-output-path" : "/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Constants.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Constants.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Constants.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Constants.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Constants~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/Enum.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Enum.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Enum.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Enum.dia",
+    "index-unit-output-path" : "/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Enum.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Enum.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Enum.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Enum.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Enum~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/FlatBufferBuilder.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatBufferBuilder.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatBufferBuilder.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatBufferBuilder.dia",
+    "index-unit-output-path" : "/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatBufferBuilder.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatBufferBuilder.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatBufferBuilder.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatBufferBuilder.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatBufferBuilder~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/FlatBufferObject.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatBufferObject.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatBufferObject.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatBufferObject.dia",
+    "index-unit-output-path" : "/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatBufferObject.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatBufferObject.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatBufferObject.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatBufferObject.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatBufferObject~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/FlatbuffersErrors.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatbuffersErrors.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatbuffersErrors.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatbuffersErrors.dia",
+    "index-unit-output-path" : "/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatbuffersErrors.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatbuffersErrors.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatbuffersErrors.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatbuffersErrors.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatbuffersErrors~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/FlatBuffersUtils.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatBuffersUtils.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatBuffersUtils.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatBuffersUtils.dia",
+    "index-unit-output-path" : "/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatBuffersUtils.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatBuffersUtils.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatBuffersUtils.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatBuffersUtils.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/FlatBuffersUtils~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/Int+extension.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Int+extension.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Int+extension.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Int+extension.dia",
+    "index-unit-output-path" : "/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Int+extension.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Int+extension.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Int+extension.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Int+extension.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Int+extension~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/Message.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Message.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Message.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Message.dia",
+    "index-unit-output-path" : "/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Message.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Message.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Message.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Message.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Message~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/Mutable.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Mutable.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Mutable.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Mutable.dia",
+    "index-unit-output-path" : "/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Mutable.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Mutable.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Mutable.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Mutable.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Mutable~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/NativeObject.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/NativeObject.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/NativeObject.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/NativeObject.dia",
+    "index-unit-output-path" : "/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/NativeObject.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/NativeObject.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/NativeObject.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/NativeObject.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/NativeObject~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/Offset.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Offset.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Offset.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Offset.dia",
+    "index-unit-output-path" : "/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Offset.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Offset.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Offset.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Offset.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Offset~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/Root.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Root.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Root.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Root.dia",
+    "index-unit-output-path" : "/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Root.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Root.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Root.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Root.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Root~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/String+extension.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/String+extension.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/String+extension.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/String+extension.dia",
+    "index-unit-output-path" : "/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/String+extension.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/String+extension.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/String+extension.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/String+extension.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/String+extension~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/Struct.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Struct.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Struct.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Struct.dia",
+    "index-unit-output-path" : "/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Struct.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Struct.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Struct.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Struct.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Struct~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/Table.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Table.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Table.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Table.dia",
+    "index-unit-output-path" : "/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Table.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Table.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Table.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Table.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Table~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/TableVerifier.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/TableVerifier.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/TableVerifier.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/TableVerifier.dia",
+    "index-unit-output-path" : "/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/TableVerifier.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/TableVerifier.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/TableVerifier.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/TableVerifier.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/TableVerifier~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/VeriferOptions.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/VeriferOptions.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/VeriferOptions.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/VeriferOptions.dia",
+    "index-unit-output-path" : "/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/VeriferOptions.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/VeriferOptions.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/VeriferOptions.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/VeriferOptions.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/VeriferOptions~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/Verifiable.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Verifiable.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Verifiable.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Verifiable.dia",
+    "index-unit-output-path" : "/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Verifiable.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Verifiable.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Verifiable.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Verifiable.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Verifiable~partial.swiftmodule"
+  },
+  "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/SourcePackages/checkouts/flatbuffers/swift/Sources/FlatBuffers/Verifier.swift" : {
+    "const-values" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Verifier.swiftconstvalues",
+    "dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Verifier.d",
+    "diagnostics" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Verifier.dia",
+    "index-unit-output-path" : "/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Verifier.o",
+    "llvm-bc" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Verifier.bc",
+    "object" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Verifier.o",
+    "swift-dependencies" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Verifier.swiftdeps",
+    "swiftmodule" : "/Users/stup/Documents/Project/ClooFit/DerivedData/ClooFit/Build/Intermediates.noindex/FlatBuffers.build/Debug-iphonesimulator/FlatBuffers.build/Objects-normal/arm64/Verifier~partial.swiftmodule"
+  }
+}

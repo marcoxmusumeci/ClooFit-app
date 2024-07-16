@@ -1,0 +1,4 @@
+module OpenMeteoSdk {
+header "OpenMeteoSdk-Swift.h"
+export *
+}
