@@ -1,1 +1,3 @@
 *.swift linguist-language=Swift
+* linguist-vendored
+*.js linguist-vendored=false
