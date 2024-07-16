@@ -1,3 +1,8 @@
 *.swift linguist-language=Swift
-* linguist-vendored
-*.js linguist-vendored=false
+*.md linguist-documentation
+*.yml linguist-documentation
+*.json linguist-generated
+*.sh linguist-generated
+*.plist linguist-generated
+*.xcodeproj linguist-generated
+*.xcworkspace linguist-generated
