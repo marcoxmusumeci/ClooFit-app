@@ -1,1 +1,2 @@
-"workbench.editor.languageDetection": false
+* linguist-vendored
+*.js linguist-vendored=false
