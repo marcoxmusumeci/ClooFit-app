@@ -1,9 +1,1 @@
-# Force .h and .cpp files to be recognized as C++
-*.h linguist-language=C++
-*.cpp linguist-language=C++
-
-# Mark .d files in the generated directory as generated
-generated/*.d linguist-generated=true
-
-# Ensure Swift files are recognized as Swift
-*.swift linguist-language=Swift
+"workbench.editor.languageDetection": false
