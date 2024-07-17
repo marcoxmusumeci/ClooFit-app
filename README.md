@@ -61,13 +61,13 @@ To install and use Cloofit on your iOS device, follow these steps:
 
 This project was developed by a team of 7 people during Apple Foundation 2024 S1:
 
-- [Name 1](https://github.com/username1)
-- [Name 2](https://github.com/username2)
-- [Name 3](https://github.com/username3)
-- [Name 4](https://github.com/username4)
-- [Name 5](https://github.com/username5)
-- [Name 6](https://github.com/username6)
-- [Name 7](https://github.com/username7)
+- [Marco Musumeci](https://github.com/marcoxmusumeci)
+- [Giuseppe Guagliardo](https://github.com/Peppe1221)
+- [Paolo Sortino](https://github.com/poolsrt)
+- [Salvatore Oteri](https://github.com/Salvuccio03)
+- [Flavio Stuppia](https://github.com/notStup)
+- [Claudio Sottile](https://github.com/TurboClaudio)
+- [Gabriele Faraone](https://github.com/GabryFara)
 
 ## License
 
