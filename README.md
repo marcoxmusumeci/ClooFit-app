@@ -1,6 +1,6 @@
 # Cloofit
 
-Cloofit is an innovative app that, based on the user's characteristics, performs a color analysis test and generates outfit suggestions that best suit the user's colors. The app creates a personalized color palette and combines clothes to offer the best options, which the user can save if desired.
+Cloofit is an innovative app that performs a color analysis test based on the user's characteristics to generate outfit suggestions that best suit the user's colors. The app creates a personalized color palette and combines clothes to offer the best options, which the user can save if desired.
 
 ## Table of Contents
 
@@ -28,6 +28,12 @@ Cloofit was developed as part of the Apple Foundation 2024 S1 program. The goal 
 - **Swift:** Programming language used for app development.
 - **Xcode:** Integrated Development Environment (IDE) used to develop the app.
 - **UI Kit:** Framework used to design the user interface.
+- **CoreLocation:** Used for location-based features.
+- **Combine:** Framework for handling asynchronous events.
+- **OpenMeteoSdk:** Used for weather-related data.
+- **Swift Data:** For data handling.
+- **Swift UI:** For building the user interface.
+- **Foundation:** Core framework for essential app functionalities.
 
 ## Installation
 
@@ -72,4 +78,3 @@ This project was developed by a team of 7 people during Apple Foundation 2024 S1
 ## License
 
 This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
-
