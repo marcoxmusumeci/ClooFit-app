@@ -1,25 +1,9 @@
-# Set Swift as the primary language
+# Force .h and .cpp files to be recognized as C++
+*.h linguist-language=C++
+*.cpp linguist-language=C++
+
+# Mark .d files in the generated directory as generated
+generated/*.d linguist-generated=true
+
+# Ensure Swift files are recognized as Swift
 *.swift linguist-language=Swift
-
-# Treat documentation files as documentation
-*.md linguist-documentation
-*.yml linguist-documentation
-
-# Treat generated files as generated
-*.json linguist-generated
-*.sh linguist-generated
-*.plist linguist-generated
-*.xcodeproj linguist-generated
-*.xcworkspace linguist-generated
-
-# De-emphasize other languages
-*.cpp linguist-vendored
-*.h linguist-vendored
-*.py linguist-vendored
-*.rs linguist-vendored
-*.cs linguist-vendored
-*.dart linguist-vendored
-*.js linguist-vendored
-*.jsx linguist-vendored
-*.ts linguist-vendored
-*.tsx linguist-vendored
