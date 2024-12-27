@@ -75,7 +75,7 @@ This project was developed by a team of 9 people during Apple Foundation 2024 S1
 - [Claudio Sottile](https://github.com/TurboClaudio)
 - [Gabriele Faraone](https://github.com/GabryFara)
 - [Giorgio Taormina](https://github.com/gio-taor)
-- [Alice Matranga]
+- Alice Matranga
 ## License
 
 This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
